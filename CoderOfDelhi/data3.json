@@ -1,0 +1,22 @@
+{
+  "users": [
+    {"id": 1, "name": "Amit", "friends": [2, 3, 5], "liked_pages": [101, 105]},
+    {"id": 2, "name": "Priya", "friends": [1, 4, 6], "liked_pages": [102, 103, 106]},
+    {"id": 3, "name": "Rahul", "friends": [1, 7], "liked_pages": [101, 103, 108]},
+    {"id": 4, "name": "Sara", "friends": [2, 8], "liked_pages": [104, 106]},
+    {"id": 5, "name": "Vikram", "friends": [1, 6], "liked_pages": [101, 105, 107]},
+    {"id": 6, "name": "Neha", "friends": [2, 5], "liked_pages": [102, 107]},
+    {"id": 7, "name": "Rohan", "friends": [3, 8], "liked_pages": [103, 104, 108]},
+    {"id": 8, "name": "Aarti", "friends": [4, 7], "liked_pages": [106, 108]}
+  ],
+  "pages": [
+    {"id": 101, "name": "Python Developers"},
+    {"id": 102, "name": "Data Science Enthusiasts"},
+    {"id": 103, "name": "AI & ML Community"},
+    {"id": 104, "name": "Web Dev Hub"},
+    {"id": 105, "name": "Cloud Computing Pros"},
+    {"id": 106, "name": "UX/UI Design Masters"},
+    {"id": 107, "name": "Cybersecurity Experts"},
+    {"id": 108, "name": "Mobile App Builders"}
+  ]
+}
