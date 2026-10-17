@@ -1,0 +1,21 @@
+Name,Age,Gender,City,Email,JoinDate,Category,Salary
+ Aayush ,23.0,M,Del,aayush@example.com,2024-01-15,Analyst,28000.0
+riya,24.0,F,Delhi,riya.sharma@example.com,01/20/2024,Analyst,32000.0
+Karan,,M,Mum,karan@example.com,2024-02-03,Developer,45000.0
+Neha,22.0,F,Mumbai,,02/10/2024,Developer,42000.0
+ Aman ,27.0,M,delhi,aman@example.com,2024-03-01,Analyst,
+Priya,24.0,F,Delhi,riya.sharma@example.com,2024-01-20,Analyst,32000.0
+Vikram,31.0,M,Bengaluru,vikram@example.com,2024-03-15,Manager,60000.0
+Sara,17.0,F,Mum,sara@example.com,,Intern,15000.0
+Rohan,29.0,M,Delhi NCR,rohan@example.com,2024-04-02,Developer,50000.0
+Meera,26.0,F,Pune,meera@example.com,04/12/2024,Analyst,36000.0
+Dev,35.0,M,Bengaluru,dev@example.com,2024-05-01,Manager,72000.0
+ Isha ,21.0,F,Del,isha@example.com,2024-05-14,Intern,18000.0
+Arjun,19.0,M,Pune,arjun@example.com,2024-06-01,Developer,39000.0
+Karan,,M,Mum,karan@example.com,2024-02-03,Developer,45000.0
+Tara,16.0,F,Delhi,tara@example.com,2024-06-18,Intern,14000.0
+Kabir,28.0,,Chennai,kabir@example.com,2024-07-04,Analyst,41000.0
+Anaya,25.0,F,Pune,anaya@example.com,2024-07-19,Developer,47000.0
+Ishaan,30.0,M,Bengaluru,ishaan@example.com,2024-08-02,Manager,68000.0
+Meera,26.0,F,Pune,meera@example.com,04/12/2024,Analyst,36000.0
+Zoya,23.0,F,Chennai,zoya@example.com,2024-08-21,Analyst,38000.0
